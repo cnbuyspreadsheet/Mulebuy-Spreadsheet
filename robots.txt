@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cnbuyspreadsheet.github.io/Mulebuy-Spreadsheet/sitemap.xml
